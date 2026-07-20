@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/hash-divided-string">3540. Hash Divided String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer <code>k</code>, where <code>n</code> is a <strong>multiple</strong> of <code>k</code>. Your task is to hash the string <code>s</code> into a new string called <code>result</code>, which has a length of <code>n / k</code>.</p>
+<h2><a href="https://leetcode.com/problems/hash-divided-string/description/">3271. Hash Divided String</a></h2><h3>Medium</h3><hr><p>You are given a string <code>s</code> of length <code>n</code> and an integer <code>k</code>, where <code>n</code> is a <strong>multiple</strong> of <code>k</code>. Your task is to hash the string <code>s</code> into a new string called <code>result</code>, which has a length of <code>n / k</code>.</p>
 
 <p>First, divide <code>s</code> into <code>n / k</code> <strong><span data-keyword="substring-nonempty">substrings</span></strong>, each with a length of <code>k</code>. Then, initialize <code>result</code> as an <strong>empty</strong> string.</p>
 
