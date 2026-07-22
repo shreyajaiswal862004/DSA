@@ -1,18 +1,19 @@
 class Solution {
 public:
     int numJewelsInStones(string jewels, string stones) {
-        unordered_map<int,int>mpp;
-        for(auto x:jewels){
-            mpp[x]++;
+        vector<int>freq(128,0);
+        for(auto x:stones){
+            freq[x]++;
         }
 
         int cnt=0;
-        for(auto x:stones){
-            if(mpp.find(x)!=mpp.end()){
-                cnt++;
+        for(auto x:jewels){
+            if(freq[x]!=0){
+                cnt+=freq[x];
             }
         }
         return cnt;
+        
     }
 };
 
