@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0027-remove-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/shreyajaiswal862004/DSA/tree/master/0485-max-consecutive-ones) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
