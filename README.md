@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 ## String
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreyajaiswal862004/DSA/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Simulation
 |  |
