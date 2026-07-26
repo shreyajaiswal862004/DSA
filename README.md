@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyajaiswal862004/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
+| [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 ## Depth-First Search
 |  |
 | ------- |
