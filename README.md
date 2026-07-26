@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0027-remove-element) |
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
 | [0136-single-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
