@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 <!---LeetCode Topics End-->
