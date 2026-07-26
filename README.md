@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0027-remove-element) |
+| [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0136-single-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 ## Stack
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 ## Bit Manipulation
