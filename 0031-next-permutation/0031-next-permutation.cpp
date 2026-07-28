@@ -21,11 +21,11 @@ public:
                 break;
             }
         }
-        reverse(nums.begin()+idx+1, nums.end());
-        return ;
+
+        reverse(nums.begin()+idx+1,nums.end());
+        return;
     }
 };
-
 
 // Synced seamlessly with LeetHub Pro
 // Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
