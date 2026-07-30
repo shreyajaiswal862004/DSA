@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shreyajaiswal862004/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shreyajaiswal862004/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shreyajaiswal862004/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3163-string-compression-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/3163-string-compression-iii) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
