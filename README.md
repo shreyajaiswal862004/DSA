@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/shreyajaiswal862004/DSA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/shreyajaiswal862004/DSA/tree/master/0205-isomorphic-strings) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1021-remove-outermost-parentheses) |
