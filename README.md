@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shreyajaiswal862004/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0796-rotate-string) |
@@ -172,12 +174,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
@@ -194,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Trie
 |  |
@@ -203,4 +208,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0796-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
