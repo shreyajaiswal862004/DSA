@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
