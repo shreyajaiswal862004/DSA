@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/1446-consecutive-characters) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shreyajaiswal862004/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shreyajaiswal862004/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shreyajaiswal862004/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Bit Manipulation
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
+| [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
 |  |
