@@ -2,32 +2,32 @@ class Solution {
 public:
     string reverseWords(string s) {
         reverse(s.begin(),s.end());
-        string temp;
         string ans;
-        for(char ch:s){
-            if(ch!=' '){
-                temp+=ch;
+        string word;
+        for(int i=0;i<s.size();i++){
+            if(s[i]==' '){
+                if(!word.empty()){
+                    reverse(word.begin(),word.end());
+                    ans+=word;
+                    ans+=' ';
+                    word="";
+                }
             }
             else{
-                if(!temp.empty()){
-                    reverse(temp.begin(),temp.end());
-                    if(!ans.empty()){
-                        ans+=' ';
-                    }
-                    ans+=temp;
-                    temp="";
-                }
+                word+=s[i];
             }
         }
-        if(!temp.empty()){
-            reverse(temp.begin(), temp.end());
-                if(!ans.empty()){
-                    ans += ' ';
-                }
-                    ans += temp;
+        if(!word.empty()){
+                    reverse(word.begin(),word.end());
+                    ans+=word;
+                    ans+=' ';
+                    word="";
+        }
+        if(!ans.empty()){
+            ans.pop_back();
         }
         return ans;
-        }
+    }
 };
 
 // Synced seamlessly with LeetHub Pro
