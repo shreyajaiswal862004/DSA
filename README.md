@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyajaiswal862004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1446-consecutive-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/1446-consecutive-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyajaiswal862004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/shreyajaiswal862004/DSA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shreyajaiswal862004/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/shreyajaiswal862004/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
 |  |
