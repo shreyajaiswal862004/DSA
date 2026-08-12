@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0155-min-stack](https://github.com/shreyajaiswal862004/DSA/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0503-next-greater-element-ii) |
+| [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
