@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0496-next-greater-element-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
+| [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Math
