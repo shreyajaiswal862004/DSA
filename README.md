@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [2798-number-of-employees-who-met-the-target](https://github.com/shreyajaiswal862004/DSA/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreyajaiswal862004/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0136-single-number) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreyajaiswal862004/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
 |  |
 | ------- |
