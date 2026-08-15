@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/shreyajaiswal862004/DSA/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0020-valid-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyajaiswal862004/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shreyajaiswal862004/DSA/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
@@ -256,5 +258,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
