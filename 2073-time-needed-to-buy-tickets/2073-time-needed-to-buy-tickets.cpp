@@ -1,18 +1,13 @@
 class Solution {
 public:
     int timeRequiredToBuy(vector<int>& tickets, int k) {
-        queue<int>q;
-        int time=0;
-        for(int i=0;i<tickets.size();i++){
-            q.push(i);
-        }
-        while(tickets[k]){
-            tickets[q.front()]--;
-            if(tickets[q.front()]){
-                q.push(q.front());
+        int time = 0;
+        for (int i = 0; i < tickets.size(); i++) {
+            if (i <= k) {
+                time += min(tickets[i], tickets[k]);
+            } else {
+                time += min(tickets[i], tickets[k] - 1);
             }
-            q.pop();
-            time++;
         }
         return time;
     }
