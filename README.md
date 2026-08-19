@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyajaiswal862004/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreyajaiswal862004/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyajaiswal862004/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreyajaiswal862004/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyajaiswal862004/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/shreyajaiswal862004/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
