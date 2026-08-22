@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/shreyajaiswal862004/DSA/tree/master/0155-min-stack) |
+| [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -306,10 +308,15 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyajaiswal862004/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
+## Linked List
+|  |
+| ------- |
+| [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 <!---LeetCode Topics End-->
