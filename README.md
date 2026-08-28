@@ -305,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
 | [1922-count-good-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/1922-count-good-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
@@ -329,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
 | [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
