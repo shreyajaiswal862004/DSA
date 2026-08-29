@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
+| [0875-koko-eating-bananas](https://github.com/shreyajaiswal862004/DSA/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/shreyajaiswal862004/DSA/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/shreyajaiswal862004/DSA/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
