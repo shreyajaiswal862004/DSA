@@ -7,16 +7,14 @@ long long reqhrs(int mid, vector<int>&piles){
     }
     return totalhrs;
 }
-
     int minEatingSpeed(vector<int>& piles, int h) {
         long long maxi=*max_element(piles.begin(),piles.end());
-
-        long long low=1, high=maxi, ans;
+        long long low=1, high=maxi;
+        long long ans;
         while(low<=high){
             long long mid=low+(high-low)/2;
-            long long hrs=reqhrs(mid,piles);
-
-            if(hrs<=h){
+            long long req= reqhrs(mid,piles);
+            if(req<=h){
                 ans=mid;
                 high=mid-1;
             }
@@ -24,7 +22,8 @@ long long reqhrs(int mid, vector<int>&piles){
                 low=mid+1;
             }
         }
-        return ans;
+        return (int)ans;
+
     }
 };
 
