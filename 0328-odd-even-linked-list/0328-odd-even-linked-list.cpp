@@ -11,12 +11,10 @@
 class Solution {
 public:
     ListNode* oddEvenList(ListNode* head) {
-        if(head == NULL || head->next == NULL)
-            return head;
-
-        ListNode* even=head->next;
-        ListNode* evenhead=even;
-        ListNode* odd= head;
+        if(head==NULL) return NULL;
+        ListNode* odd=head;
+        ListNode* temp=head->next;
+        ListNode* even =head->next;
 
         while(even!=NULL && even->next!=NULL){
             odd->next=even->next;
@@ -25,10 +23,11 @@ public:
             even->next=odd->next;
             even=even->next;
         }
-        odd->next=evenhead;
+
+        odd->next=temp;
         return head;
+
     }
-    
 };
 
 // Synced seamlessly with LeetHub Pro
