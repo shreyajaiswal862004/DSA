@@ -25,7 +25,7 @@ public:
 
         back->next=slow->next;
         slow->next=NULL;
-        delete slow;
+        delete(slow);
         return head;
     }
 };
