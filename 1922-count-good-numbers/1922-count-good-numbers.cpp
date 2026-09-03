@@ -1,24 +1,25 @@
 class Solution {
-const int M = 1e9 + 7;
-long long  power(long long  x, long long n){
-    long long ans=1;
-    x=x%M;
-    while(n){
-        if(n%2==1){
-            ans=(ans*x)%M;
-            n=n-1;
-        }
-        else{
-            x=(x*x)%M;
-            n=n/2;
-        }
-    }
-    return ans;
-}
 public:
+    const int mod=1e9+7;
+    long long pow(long long x, long long n){
+        long long ans=1;
+        while(n){
+            if(n%2==0){
+                x=(x*x)%mod;
+                n=n/2;
+            }
+            else{
+                ans=(ans*x)%mod;
+                n=n-1;
+            }
+        }
+        return ans;
+    }
     int countGoodNumbers(long long n) {
-        long long result= (power(5,(n+1)/2) * power(4,n/2))%M;
-        return (int)result;
+        int mod=1e9+7;
+        long long odd=(n/2);
+        long long even=(n+1)/2;
+        return (int)((pow(4,odd) * pow(5,even))%mod);
     }
 };
 
