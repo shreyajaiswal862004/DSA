@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0002-add-two-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyajaiswal862004/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/shreyajaiswal862004/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/shreyajaiswal862004/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
