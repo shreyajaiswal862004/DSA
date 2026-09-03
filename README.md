@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shreyajaiswal862004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyajaiswal862004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shreyajaiswal862004/DSA/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shreyajaiswal862004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shreyajaiswal862004/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0234-palindrome-linked-list) |
@@ -365,4 +369,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyajaiswal862004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0142-linked-list-cycle-ii) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
