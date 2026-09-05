@@ -1,11 +1,12 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
+        int n=fruits.size();
         unordered_map<int,int>mpp;
-        int i=0,maxcount=0;
-        for(int j=0;j<fruits.size();j++){
+        int maxcount=0, i=0;
+        for(int j=0;j<n;j++){
             mpp[fruits[j]]++;
-            if(mpp.size()>2){
+            while(mpp.size()>2){
                 mpp[fruits[i]]--;
                 if(mpp[fruits[i]]==0) mpp.erase(fruits[i]);
                 i++;
