@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyajaiswal862004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/shreyajaiswal862004/DSA/tree/master/0402-remove-k-digits) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyajaiswal862004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0424-longest-repeating-character-replacement](https://github.com/shreyajaiswal862004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shreyajaiswal862004/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
