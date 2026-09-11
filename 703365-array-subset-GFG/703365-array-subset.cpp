@@ -8,12 +8,10 @@ public:
             mpp[it]++;
         }
         
-        for(int i=0;i<b.size();i++){
-            if(mpp.find(b[i])==mpp.end()){
-                return false;
-            }
-            mpp[b[i]]--;
-            if(mpp[b[i]]==0)mpp.erase(b[i]);
+        for(auto it:b){
+            if(mpp.find(it)==mpp.end()) return false;
+            mpp[it]--;
+            if(mpp[it]==0) mpp.erase(it);
         }
         return true;
     }
