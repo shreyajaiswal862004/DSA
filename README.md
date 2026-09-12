@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/shreyajaiswal862004/DSA/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
+| [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyajaiswal862004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyajaiswal862004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0152-maximum-product-subarray) |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
+| [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
 |  |
 | ------- |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/1922-count-good-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
@@ -412,4 +415,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0022-generate-parentheses) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
