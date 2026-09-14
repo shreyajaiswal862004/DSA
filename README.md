@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/shreyajaiswal862004/DSA/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0930-binary-subarrays-with-sum) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0551-student-attendance-record-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0551-student-attendance-record-i) |
 | [0556-next-greater-element-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/shreyajaiswal862004/DSA/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajaiswal862004/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0567-permutation-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/shreyajaiswal862004/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/shreyajaiswal862004/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0556-next-greater-element-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/0556-next-greater-element-iii) |
+| [0567-permutation-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
