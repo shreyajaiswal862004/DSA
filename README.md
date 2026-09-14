@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/shreyajaiswal862004/DSA/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/shreyajaiswal862004/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shreyajaiswal862004/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/shreyajaiswal862004/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreyajaiswal862004/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/shreyajaiswal862004/DSA/tree/master/0078-subsets) |
 ## Memoization
 |  |
 | ------- |
