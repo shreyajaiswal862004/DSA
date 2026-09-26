@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/minimum-queen-moves-to-reach-target">4421. Minimum Queen Moves to Reach Target</a></h2><h3>Easy</h3><hr><p>There is an <code>8 x 8</code> empty chessboard with <strong>1-indexed</strong> rows and columns.</p>
+<h2><a href="https://leetcode.com/problems/minimum-queen-moves-to-reach-target">4061. Minimum Queen Moves to Reach Target</a></h2><h3>Easy</h3><hr><p>There is an <code>8 x 8</code> empty chessboard with <strong>1-indexed</strong> rows and columns.</p>
 
 <p>You are given an array <code>source = [sr, sc]</code> representing the starting position of a <strong>queen</strong>, and an array <code>target = [tr, tc]</code> representing the target position.</p>
 
