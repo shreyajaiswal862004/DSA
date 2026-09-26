@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0283-move-zeroes) |
@@ -319,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
 |  |
 | ------- |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0088-merge-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/shreyajaiswal862004/DSA/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/shreyajaiswal862004/DSA/tree/master/0242-valid-anagram) |
@@ -366,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Trie
@@ -474,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0997-find-the-town-judge](https://github.com/shreyajaiswal862004/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/shreyajaiswal862004/DSA/tree/master/1791-find-center-of-star-graph) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
