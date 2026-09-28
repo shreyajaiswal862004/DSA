@@ -1,20 +1,16 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        int cnt=0, maxi=0;
-        for(int i=0;i<s.size();i++){
-            if(s[i]=='('){
-                cnt++;
-                maxi=max(maxi,cnt);
+        stack<char>st;
+        int r=0,n=s.size(),maxcount=0;
+        while(r<n){
+            if(s[r]=='(') st.push('(');
+            else if (s[r]==')'){
+                maxcount=max(maxcount,(int)st.size());
+                st.pop();
             }
-            else if (s[i]==')'){
-                cnt--;
-            }
+            r++;
         }
-        return maxi;
+        return maxcount;
     }
 };
-
-// Synced seamlessly with LeetHub Pro
-// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
-// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
