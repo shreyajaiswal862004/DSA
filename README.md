@@ -4,8 +4,8 @@ A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -45,8 +45,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyajaiswal862004/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## String
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0008-string-to-integer-atoi](https://github.com/shreyajaiswal862004/DSA/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
@@ -93,8 +93,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Sliding Window
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/shreyajaiswal862004/DSA/tree/master/0424-longest-repeating-character-replacement) |
@@ -113,8 +113,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyajaiswal862004/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0001-two-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyajaiswal862004/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
@@ -187,17 +187,17 @@ A collection of LeetCode questions to ace the coding interview!
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyajaiswal862004/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreyajaiswal862004/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Depth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0733-flood-fill](https://github.com/shreyajaiswal862004/DSA/tree/master/0733-flood-fill) |
 | [1096-brace-expansion-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1096-brace-expansion-ii) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shreyajaiswal862004/DSA/tree/master/0073-set-matrix-zeroes) |
@@ -205,8 +205,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/shreyajaiswal862004/DSA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyajaiswal862004/DSA/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/shreyajaiswal862004/DSA/tree/master/0155-min-stack) |
@@ -225,8 +225,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyajaiswal862004/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -242,8 +242,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shreyajaiswal862004/DSA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyajaiswal862004/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/shreyajaiswal862004/DSA/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0523-continuous-subarray-sum) |
@@ -254,8 +254,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyajaiswal862004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/shreyajaiswal862004/DSA/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Simulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0054-spiral-matrix](https://github.com/shreyajaiswal862004/DSA/tree/master/0054-spiral-matrix) |
 | [0682-baseball-game](https://github.com/shreyajaiswal862004/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/shreyajaiswal862004/DSA/tree/master/0844-backspace-string-compare) |
@@ -264,8 +264,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
 ## Two Pointers
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -293,8 +293,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2149-rearrange-array-elements-by-sign](https://github.com/shreyajaiswal862004/DSA/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2460-apply-operations-to-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/2460-apply-operations-to-an-array) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shreyajaiswal862004/DSA/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/shreyajaiswal862004/DSA/tree/master/0048-rotate-image) |
@@ -310,24 +310,24 @@ A collection of LeetCode questions to ace the coding interview!
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyajaiswal862004/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Bit Manipulation
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0078-subsets](https://github.com/shreyajaiswal862004/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0287-find-the-duplicate-number) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/shreyajaiswal862004/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Divide and Conquer
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyajaiswal862004/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 ## Sorting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0015-3sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/shreyajaiswal862004/DSA/tree/master/0056-merge-intervals) |
@@ -343,8 +343,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0169-majority-element](https://github.com/shreyajaiswal862004/DSA/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
@@ -354,8 +354,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/shreyajaiswal862004/DSA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
 ## Dynamic Programming
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/shreyajaiswal862004/DSA/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/shreyajaiswal862004/DSA/tree/master/0053-maximum-subarray) |
@@ -364,53 +364,53 @@ A collection of LeetCode questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
 | [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 ## Greedy
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/shreyajaiswal862004/DSA/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Trie
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 ## String Matching
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0796-rotate-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0796-rotate-string) |
 ## Bucket Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 ## Bracket Sequences
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0020-valid-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0022-generate-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0155-min-stack](https://github.com/shreyajaiswal862004/DSA/tree/master/0155-min-stack) |
 | [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/shreyajaiswal862004/DSA/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/shreyajaiswal862004/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/shreyajaiswal862004/DSA/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0503-next-greater-element-ii) |
 ## Recursion
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shreyajaiswal862004/DSA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0206-reverse-linked-list) |
@@ -419,27 +419,27 @@ A collection of LeetCode questions to ace the coding interview!
 | [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 | [1922-count-good-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/1922-count-good-numbers) |
 ## Boyer–Moore Majority Vote Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0229-majority-element-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0229-majority-element-ii) |
 ## Quicksort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0056-merge-intervals](https://github.com/shreyajaiswal862004/DSA/tree/master/0056-merge-intervals) |
 ## Queue
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/shreyajaiswal862004/DSA/tree/master/0387-first-unique-character-in-a-string) |
 | [0641-design-circular-deque](https://github.com/shreyajaiswal862004/DSA/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/shreyajaiswal862004/DSA/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/shreyajaiswal862004/DSA/tree/master/0933-number-of-recent-calls) |
 ## Linked List
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0002-add-two-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/shreyajaiswal862004/DSA/tree/master/0141-linked-list-cycle) |
@@ -453,22 +453,22 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-middle-of-the-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/shreyajaiswal862004/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/shreyajaiswal862004/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Merge Sort
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0148-sort-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0148-sort-list) |
 ## Pigeonhole Principle
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0022-generate-parentheses](https://github.com/shreyajaiswal862004/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0040-combination-sum-ii) |
@@ -476,16 +476,16 @@ A collection of LeetCode questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/0090-subsets-ii) |
 | [1096-brace-expansion-ii](https://github.com/shreyajaiswal862004/DSA/tree/master/1096-brace-expansion-ii) |
 ## Memoization
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0509-fibonacci-number](https://github.com/shreyajaiswal862004/DSA/tree/master/0509-fibonacci-number) |
 ## Graph Theory
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/shreyajaiswal862004/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/shreyajaiswal862004/DSA/tree/master/1791-find-center-of-star-graph) |
 ## Quickselect
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
