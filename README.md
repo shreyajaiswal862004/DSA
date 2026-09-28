@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0001-two-sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shreyajaiswal862004/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/shreyajaiswal862004/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/shreyajaiswal862004/DSA/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shreyajaiswal862004/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/shreyajaiswal862004/DSA/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shreyajaiswal862004/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/shreyajaiswal862004/DSA/tree/main/0011-container-with-most-water/) | Medium |
 | [0376-wiggle-subsequence](https://github.com/shreyajaiswal862004/DSA/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/shreyajaiswal862004/DSA/tree/master/0402-remove-k-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
