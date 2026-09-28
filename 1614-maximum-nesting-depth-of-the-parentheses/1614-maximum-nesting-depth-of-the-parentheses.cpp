@@ -1,15 +1,15 @@
 class Solution {
 public:
     int maxDepth(string s) {
-        stack<char>st;
-        int r=0,n=s.size(),maxcount=0;
-        while(r<n){
-            if(s[r]=='(') st.push('(');
-            else if (s[r]==')'){
-                maxcount=max(maxcount,(int)st.size());
-                st.pop();
+        int cnt=0,maxcount=0;
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='('){
+                cnt++;
+                maxcount=max(maxcount,cnt);
             }
-            r++;
+            else if(s[i]==')'){
+                cnt--;
+            }
         }
         return maxcount;
     }
