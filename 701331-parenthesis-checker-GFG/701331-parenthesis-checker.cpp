@@ -3,25 +3,24 @@ class Solution {
     bool isBalanced(string& s) {
         // code here
         stack<char>st;
-        for(char it:s){
-            if(it=='(' || it=='{' || it=='['){
-                st.push(it);
+        for(auto it:s){
+            if(it=='(') st.push(it);
+            else if(it=='{') st.push(it);
+            else if(it=='[') st.push(it);
+            else if(it==')'){
+                if(!st.empty() && st.top()=='(') st.pop();
+                else return false;
             }
-            else{
-                if(!st.empty() && ((it==')' && st.top()!='(') || (it=='}' && st.top()!='{') || (it==']' &&  st.top()!='['))){
-                    return false;
-                }
-                else{
-                    if(!st.empty()){
-                        st.pop();
-                    }
-                    else{
-                        return false;
-                    }
-                }
+            else if(it==']'){
+                if(!st.empty() && st.top()=='[') st.pop();
+                else return false;
+            }
+            else if(it=='}'){
+                if(!st.empty() && st.top()=='{') st.pop();
+                else return false;
             }
         }
-        return st.empty()? true:false;
+        return st.empty();
     }
 };
 
