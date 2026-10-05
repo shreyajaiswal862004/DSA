@@ -3,35 +3,21 @@ public:
     bool backspaceCompare(string s, string t) {
         stack<char>st1;
         stack<char>st2;
-        for(auto it:s){
-            if(!st1.empty() && it=='#'){
-                st1.pop();
+
+        for(int i=0;i<s.size();i++){
+            if(s[i]=='#'){
+                if(!st1.empty()) st1.pop();
             }
-            else if(st1.empty() && it=='#') continue;
-            else{
-                st1.push(it);
-            }
+            else st1.push(s[i]);
         }
 
-        for(auto it:t){
-            if(!st2.empty() && it=='#'){
-                st2.pop();
+        for(int i=0;i<t.size();i++){
+            if(t[i]=='#'){
+                if(!st2.empty()) st2.pop();
             }
-            else if(st2.empty() && it=='#') continue;
-            else{
-                st2.push(it);
-            }
+            else st2.push(t[i]);
         }
-
-        if(st1.size()!=st2.size()) return false;
-        while(!st1.empty() && !st2.empty()){
-            char a=st1.top();
-            char b=st2.top();
-            st1.pop();
-            st2.pop();
-            if(a!=b) return false;
-        }
-        return true;
+        return st1==st2;
     }
 };
 
