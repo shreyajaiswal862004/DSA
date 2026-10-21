@@ -1,14 +1,15 @@
 class Solution {
 public:
     vector<vector<int>> threeSum(vector<int>& nums) {
-        sort(nums.begin(),nums.end());
-        vector<vector<int>>ans;
         int n=nums.size();
+        if(n<3) return {};
+        vector<vector<int>>ans;
+        sort(nums.begin(),nums.end());
+
         for(int i=0;i<n-2;i++){
+            if(i>0 && nums[i]==nums[i-1]) continue;
             int j=i+1;
             int k=n-1;
-           if(i>0 && nums[i]==nums[i-1]) continue;
-
             while(j<k){
                 if(nums[i]+nums[j]+nums[k]==0){
                     vector<int>temp={nums[i],nums[j],nums[k]};
@@ -16,12 +17,16 @@ public:
                     j++;
                     k--;
                     while(j<k && nums[j]==nums[j-1]) j++;
-                    while(j<k && k<n-1 && nums[k]==nums[k+1]) k--;
+                    while(j<k && nums[k]==nums[k+1]) k--;
                 }
                 else if(nums[i]+nums[j]+nums[k]>0) k--;
-                else j++; 
+                else j++;
             }
         }
         return ans;
     }
 };
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
