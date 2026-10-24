@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2042-check-if-numbers-are-ascending-in-a-sentence](https://github.com/shreyajaiswal862004/DSA/tree/master/2042-check-if-numbers-are-ascending-in-a-sentence) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/shreyajaiswal862004/DSA/tree/master/2124-check-if-all-as-appears-before-all-bs) |
+| [2409-count-days-spent-together](https://github.com/shreyajaiswal862004/DSA/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/shreyajaiswal862004/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3163-string-compression-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/3163-string-compression-iii) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/shreyajaiswal862004/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shreyajaiswal862004/DSA/tree/master/1922-count-good-numbers) |
+| [2409-count-days-spent-together](https://github.com/shreyajaiswal862004/DSA/tree/master/2409-count-days-spent-together) |
 | [2965-find-missing-and-repeated-values](https://github.com/shreyajaiswal862004/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/shreyajaiswal862004/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/shreyajaiswal862004/DSA/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
