@@ -1,12 +1,15 @@
 class Solution {
 public:
     int maxAbsoluteSum(vector<int>& nums) {
-        int ans=0;
-        int minprefix=0, maxprefix=0;
-        for(int i=0;i<nums.size();i++){
-            minprefix=min(0,minprefix+nums[i]);
-            maxprefix=max(0,maxprefix+nums[i]);
-            ans=max(ans, max(abs(minprefix),maxprefix));
+        int minprefix=nums[0];
+        int maxiprefix=nums[0];
+        int ans=abs(nums[0]);
+
+        for(int i=1;i<nums.size();i++){
+            minprefix=min(nums[i],minprefix+nums[i]);
+            maxiprefix=max(nums[i],maxiprefix+nums[i]);
+
+            ans=max(ans,max(maxiprefix, abs(minprefix)));
         }
         return ans;
     }
