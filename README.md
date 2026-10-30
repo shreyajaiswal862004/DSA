@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [3163-string-compression-iii](https://github.com/shreyajaiswal862004/DSA/tree/master/3163-string-compression-iii) |
 | [3271-hash-divided-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3271-hash-divided-string) |
 | [3438-find-valid-pair-of-adjacent-digits-in-string](https://github.com/shreyajaiswal862004/DSA/tree/master/3438-find-valid-pair-of-adjacent-digits-in-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shreyajaiswal862004/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -390,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/shreyajaiswal862004/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/shreyajaiswal862004/DSA/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shreyajaiswal862004/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -499,8 +501,13 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- | ------- |
 | [0997-find-the-town-judge](https://github.com/shreyajaiswal862004/DSA/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/shreyajaiswal862004/DSA/tree/master/1791-find-center-of-star-graph) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shreyajaiswal862004/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/shreyajaiswal862004/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Shortest Path
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/shreyajaiswal862004/DSA/tree/main/3970-shortest-path-with-at-most-k-consecutive-identical-characters/) | Medium |
 <!---LeetCode Topics End-->
