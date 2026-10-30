@@ -1,17 +1,20 @@
 class Solution {
 public:
     int firstUniqChar(string s) {
-        vector<int>freq(128,0);
-        for(auto it:s){
-            freq[it-'0']++;
+        unordered_map<int,int>mpp;
+        int ans=-1;
+
+        for(int i=0;i<s.size();i++){
+            mpp[s[i]]++;
         }
 
         for(int i=0;i<s.size();i++){
-            if(freq[s[i]-'0']==1){
-                return i;
+            if(mpp[s[i]]==1){
+                ans=i;
+                break;
             }
         }
-        return -1;
+        return ans;
     }
 };
 
